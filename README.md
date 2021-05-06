@@ -17,4 +17,4 @@ N이 피보나치 수이면 O(1)에, 아니면 O(k)에 가능.
 https://mathstorehouse.com/archives/mathematics/algebra/number-theory/2232/
 
 피보나치킨 알고리즘 구현에 대한 해설 영상:
-피보나치킨 수 피보나치 수열 그리고 황금비: https://youtu.be/RgjLmjDQQww
+https://youtu.be/RgjLmjDQQww
